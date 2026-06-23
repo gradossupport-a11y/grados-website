@@ -2,28 +2,48 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url>
-<loc>https://grados.in/</loc>
-</url>
+    <url>
+        <loc>https://gradossupport-a11y.github.io/grados.in/</loc>
+    </url>
 
-<url>
-<loc>https://grados.in/features.html</loc>
-</url>
+    <url>
+        <loc>https://gradossupport-a11y.github.io/grados.in/index.html</loc>
+    </url>
 
-<url>
-<loc>https://grados.in/download.html</loc>
-</url>
+    <url>
+        <loc>https://gradossupport-a11y.github.io/grados.in/features.html</loc>
+    </url>
 
-<url>
-<loc>https://grados.in/about.html</loc>
-</url>
+    <url>
+        <loc>https://gradossupport-a11y.github.io/grados.in/resources.html</loc>
+    </url>
 
-<url>
-<loc>https://grados.in/resources.html</loc>
-</url>
+    <url>
+        <loc>https://gradossupport-a11y.github.io/grados.in/download.html</loc>
+    </url>
 
-<url>
-<loc>https://grados.in/contact.html</loc>
-</url>
+    <url>
+        <loc>https://gradossupport-a11y.github.io/grados.in/about.html</loc>
+    </url>
+
+    <url>
+        <loc>https://gradossupport-a11y.github.io/grados.in/contact.html</loc>
+    </url>
+
+    <url>
+        <loc>https://gradossupport-a11y.github.io/grados.in/resources/phd-application-checklist.html</loc>
+    </url>
+
+    <url>
+        <loc>https://gradossupport-a11y.github.io/grados.in/resources/masters-application-checklist.html</loc>
+    </url>
+
+    <url>
+        <loc>https://gradossupport-a11y.github.io/grados.in/resources/recommendation-letter-guide.html</loc>
+    </url>
+
+    <url>
+        <loc>https://gradossupport-a11y.github.io/grados.in/resources/how-to-contact-professors.html</loc>
+    </url>
 
 </urlset>
