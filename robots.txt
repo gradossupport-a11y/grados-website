@@ -1,4 +1,5 @@
 User-agent: *
+
 Allow: /
 
-Sitemap: https://grados.in/sitemap.xml
+Sitemap: https://gradossupport-a11y.github.io/grados.in/sitemap.xml
